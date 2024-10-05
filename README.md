@@ -20,7 +20,9 @@ You can view the live demo of this project at: [Demo Link](#) <!-- Add link when
 
 ## Screenshots
 
-![Upload Screenshot](screenshots/Upload_Screenshot.jpeg)
+![Upload Screenshot](Sign-App/screenshots
+/Upload_Screenshot.jpeg
+)
 *Upload document functionality.*
 
 ![Sign Screenshot](./screenshots/Sign_Screenshot.jpeg)
