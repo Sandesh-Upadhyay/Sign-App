@@ -19,7 +19,8 @@ You can view the live demo of this project at: [Demo Link](#) <!-- Add link when
 - JavaScript
 
 ## Screenshots
-![Upload Screenshot](./screenshots/Upload_Screenshot.jpeg) <!-- Add correct file paths -->
+
+(![Upload Screenshot](./screenshots/Upload_Screenshot.jpeg)) <!-- Add correct file paths -->
 *Upload document functionality.*
 
 ![Sign Screenshot](./screenshots/Sign_Screenshot.jpeg)
